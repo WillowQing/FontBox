@@ -1,10 +1,14 @@
-# 字匣 · 你的本地字体库
+# FontBox · 字匣
+
+![FontBox · 字匣](fontbox-social-preview.png)
 
 **面向中文设计工作流的 Windows 字体管理工具。免费公测，本地运行，无需账号。**
 
+**中文名：字匣 · English: FontBox**
+
 把常用字体收进自己的匣子：预览、收藏、归类、对比，再应用到 Photoshop 或 Illustrator。
 
-[免费下载 Windows x64 版](https://github.com/WillowQing/zi-xia/releases/tag/v1.7.0) · [反馈问题](https://github.com/WillowQing/zi-xia/issues) · [使用说明](使用说明.md)
+[免费下载 Windows x64 版](https://github.com/WillowQing/FontBox/releases/tag/v1.7.0) · [反馈问题](https://github.com/WillowQing/FontBox/issues) · [使用说明](使用说明.md)
 
 > 本仓库用于软件下载、使用说明和问题反馈，暂不公开开发源码。软件免费使用不等于字体获得免费商用授权。
 
@@ -28,13 +32,44 @@
 - **侧边吸附**：拖到屏幕边缘收起，悬停展开。关闭窗口可选择最小化或退出。
 - **导入、导出与资料备份**：自行管理字体文件，备份收藏、分类与授权记录。
 
-## 软件截图
+## 功能演示
 
-![PS 与 Illustrator 联动及字体对比](font-comparison.png)
+以下 **13 张均为 1.7.0 实际运行截图**，使用独立演示资料库。点击图片可查看原图；下载包不包含演示字体或个人资料。
 
-![蓝白主题关闭弹窗](close-dialog.png)
+| **字体库总览** | **收藏与大字号预览** |
+| :--- | :--- |
+| [![字体库总览](01-font-library.png)](01-font-library.png) | [![收藏与大字号预览](13-favorites-large.jpg)](13-favorites-large.jpg) |
+| 扫描当前电脑已安装字体，直接预览自己的本地字体。 | 自定义样字「设计需求」，快速比较常用字体；缺字会单独提示。 |
 
-以上为独立演示资料库中的真实软件截图，下载包不包含截图中的字体文件或个人资料。
+| **快速加入分类** | **字体类型筛选** |
+| :--- | :--- |
+| [![快速加入分类](03-quick-collections.png)](03-quick-collections.png) | [![字体类型筛选](14-type-menu.jpg)](14-type-menu.jpg) |
+| 在卡片上勾选分类，也可以拖到侧栏或批量整理。 | 展开类型菜单，按衬线、无衬线、手写、书法等分类查找。 |
+
+| **文字语言筛选** | **字体详情** |
+| :--- | :--- |
+| [![文字语言筛选](16-language-menu.jpg)](16-language-menu.jpg) | [![字体详情](05-font-license-details.png)](05-font-license-details.png) |
+| 以「の」演示日文假名筛选，依据字体文件实际字符映射判断。 | 查看具体字重、文字覆盖、收藏状态与授权标签。 |
+
+| **授权、备注与文件管理** | **字体对比** |
+| :--- | :--- |
+| [![授权、备注与文件管理](15-license-notes-actions.jpg)](15-license-notes-actions.jpg) | [![字体对比](07-font-comparison.png)](07-font-comparison.png) |
+| 记录授权说明、项目备注和分类，保存许可证附件，导出或移除字体。 | 把候选字体加入对比台，在同一段样字下并排挑选。 |
+
+| **监听文件夹** | **官方字体入口** |
+| :--- | :--- |
+| [![监听文件夹](08-folder-watching.png)](08-folder-watching.png) | [![官方字体入口](09-official-font-sources.png)](09-official-font-sources.png) |
+| 指定下载或素材文件夹，新字体自动收录。 | 前往官方来源获取字体；软件包本身不附带字体文件。 |
+
+| **Photoshop 换字** | **Illustrator 换字** |
+| :--- | :--- |
+| [![Photoshop 换字](11-photoshop-link.png)](11-photoshop-link.png) | [![Illustrator 换字](12-illustrator-link.png)](12-illustrator-link.png) |
+| 在字匣选择字体，应用到当前活动文字图层。 | 选择独立文字对象后，整框应用字体与字重。 |
+
+| **最小化或退出** |
+| :--- |
+| [![最小化或退出](10-close-window.png)](10-close-window.png) |
+| 与蓝白界面一致的关闭弹窗，可继续后台监听或直接退出。 |
 
 ## Adobe 联动范围
 
@@ -56,4 +91,4 @@
 
 本项目暂未提供开源许可。软件免费使用说明见 [免费使用说明](免费使用说明.md)；第三方组件保留各自许可，见 [第三方组件说明](第三方组件说明.md)。程序不附赠字体授权，字体可预览、已安装或被自动分类均不代表可免费商用。
 
-欢迎通过 [Issues](https://github.com/WillowQing/zi-xia/issues) 反馈：操作系统版本、字匣版本、复现步骤、预期与实际结果。涉及 Adobe 联动时附上 PS / AI 版本；请勿公开上传付费字体、许可证合同或含个人路径的完整资料库。
+欢迎通过 [Issues](https://github.com/WillowQing/FontBox/issues) 反馈：操作系统版本、字匣版本、复现步骤、预期与实际结果。涉及 Adobe 联动时附上 PS / AI 版本；请勿公开上传付费字体、许可证合同或含个人路径的完整资料库。
