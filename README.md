@@ -4,7 +4,7 @@
 
 把常用字体收进自己的匣子：预览、收藏、归类、对比，再应用到 Photoshop 或 Illustrator。
 
-[免费下载 Windows x64 版](https://github.com/WillowQing/zi-xia/releases/latest) · [反馈问题](https://github.com/WillowQing/zi-xia/issues) · [使用说明](使用说明.md)
+[免费下载 Windows x64 版](https://github.com/WillowQing/zi-xia/releases/tag/v1.7.0) · [反馈问题](https://github.com/WillowQing/zi-xia/issues) · [使用说明](使用说明.md)
 
 > 本仓库用于软件下载、使用说明和问题反馈，暂不公开开发源码。软件免费使用不等于字体获得免费商用授权。
 
