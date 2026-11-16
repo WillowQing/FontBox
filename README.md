@@ -30,9 +30,9 @@
 
 ## 软件截图
 
-![PS 与 Illustrator 联动及字体对比](https://github.com/WillowQing/zi-xia/releases/download/v1.7.0/font-comparison.png)
+![PS 与 Illustrator 联动及字体对比](font-comparison.png)
 
-![蓝白主题关闭弹窗](https://github.com/WillowQing/zi-xia/releases/download/v1.7.0/close-dialog.png)
+![蓝白主题关闭弹窗](close-dialog.png)
 
 以上为独立演示资料库中的真实软件截图，下载包不包含截图中的字体文件或个人资料。
 
